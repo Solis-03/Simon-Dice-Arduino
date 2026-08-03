@@ -16,5 +16,3 @@ Este proyecto consiste en una réplica del clásico juego Simon Dice utilizando 
 
 ## Documentación
 La documentación completa del proyecto se encuentra en el archivo `Simon_Dice.pdf`.
-
-## Demostración
